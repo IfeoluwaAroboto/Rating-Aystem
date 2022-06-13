@@ -1,0 +1,83 @@
+body{
+    background-color: hsl(216, 12%, 8%);
+}
+.box{ background-color: hsl(213, 19%, 18%);
+    text-align: center;
+    border-radius: 10%;
+    border: 1px  hsl(213, 19%, 18%) soild ;
+    width: 300px;
+    display: block;
+}
+.hide-box{
+display:none;
+}
+.head {display: flex;
+    justify-content: center;
+    padding-top: 170px;
+
+}
+h4{ 
+    color:white; 
+    font-size: 20px;
+}
+p{
+    color:gray;
+    font-size:15px
+}
+button { border-radius: 50%;
+    border: 1px hsl(213, 78%, 83%) ;
+   background-color: hsl(216, 12%, 8%);
+   color:gray;
+   width: 40px;
+   height: 40px;
+}
+.button :hover{
+    background-color: white;
+    color:black;
+}
+.submit { border-radius: 20px 20px 20px 20px;
+    background-color: hsl(25, 97%, 53%);
+    width: 200px;
+   height: 30px;
+  color:white; 
+}
+.sub{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.sub :hover{
+    background-color: white;
+    color:black;
+}
+.rating{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.box2 {
+    background-color: hsl(213, 19%, 18%);
+    text-align: center;
+    border-radius: 10%;
+    border: 1px  hsl(213, 19%, 18%) soild ;
+    width: 300px;
+    display: none;
+    
+}
+.show-box2{
+    display: block;
+}
+.rate{border-radius: 20px 20px 20px 20px;
+    padding-top:10px;
+    background-color: hsl(213, 19%, 18%);
+  
+}
+h4{
+    
+    color: hsl(25, 97%, 53%);
+   
+} 
+h3{color:white;
+}
+p{
+    padding-bottom: 20px;
+}
