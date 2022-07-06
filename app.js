@@ -47,10 +47,4 @@ btn5.addEventListener("click", function(){
 else {
     box.classList.add("hide-box")
 }
-number = 0
-if (number === 0){
-    alert("OOPS, LOOKS LIKE YOU DID NOT PICK A NUMBER")
-    box.classList.remove("hide-box")
-    box2.classList.remove("show-box2")
-}
  })
