@@ -50,7 +50,6 @@ btn5.addEventListener("click", function(){
 else {
     box.classList.add("hide-box")
 }
-  if (submit === ""){
-alert("hey")}
+  
 
  })
