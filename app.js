@@ -51,7 +51,7 @@ else {
     box.classList.add("hide-box")
 }
 
-If (submit = null){Alert("you didn't choose a number)}
+Alert("you didn't choose a number)
  })
 
 
