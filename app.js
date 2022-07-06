@@ -37,7 +37,7 @@ btn5.addEventListener("click", function(){
  })
 
  submit.addEventListener("click", function(){
-     
+   
  if (box.classList.contains("show-box2")){
      box.classList.remove("show-box2")
  }  
@@ -50,7 +50,11 @@ btn5.addEventListener("click", function(){
 else {
     box.classList.add("hide-box")
 }
+
+If (submit = null){Alert("you didn't choose a number)}
  })
+
+
 
  
  
