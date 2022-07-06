@@ -50,9 +50,4 @@ btn5.addEventListener("click", function(){
 else {
     box.classList.add("hide-box")
 }
-
-
-If(null){alert("Looks like you didn't pick a thing"
-
-
-})
+)}
